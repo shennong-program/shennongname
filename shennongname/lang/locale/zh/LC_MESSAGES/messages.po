@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-11\n"
+"PO-Revision-Date: 2023-06-11\n"
+"Last-Translator: YANG Zijie\n"
+"Language-Team: YANG Zijie\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+# For test
+
+msgid "Hello, world!"
+msgstr "你好，世界！"
+
+msgid "Error message A."
+msgstr "错误信息A。"
+
+msgid "Error message B."
+msgstr "错误信息B。"
+
+msgid "abc."
+msgstr "甲乙丙。"
+
+msgid "def."
+msgstr "丁戊己。"
+
+msgid "ghi."
+msgstr "庚辛壬。"
+
+msgid "Miao miao miao."
+msgstr "喵喵喵。"
+
+
+# Main
+
+msgid "Mapping item cannot be empty."
+msgstr "映射项不能为空。"
+
+msgid "Mapping item must have 2 elements."
+msgstr "映射项必须有2个元素。"
+
+msgid "Mapping item must be a tuple."
+msgstr "映射项必须是一个元组。"
+
+msgid "Mapping cannot be empty."
+msgstr "映射不能为空。"
+
+msgid "Mapping must be a list."
+msgstr "映射必须是一个列表。"
+
+msgid "The mapping is not in the types of one-to-one or multi-to-one."
+msgstr "映射不是一对一或多对一的类型。"
+
+msgid "The mapping is not in the types of one-to-one or one-to-multi."
+msgstr "映射不是一对一或一对多的类型。"
+
+msgid "The mapping is not in the type of multi-to-one."
+msgstr "映射不是多对一的类型。"
+
+msgid "Invalid status."
+msgstr "无效的状态。"
+
+msgid "The type of the input data is not list."
+msgstr "输入数据的类型不是列表。"
+
+msgid "The length of the inner list is not 2."
+msgstr "内部列表的长度不是2。"
+
+msgid "The str in the input data is empty or not in the available logic operator list."
+msgstr "输入数据中的字符串为空或不在可用的逻辑运算符列表中。"
+
+msgid "The type of the item in the input data is not list or str."
+msgstr "输入数据中项目的类型不是列表或字符串。"
+
+msgid "The first and the last item could not be logic_operator."
+msgstr "第一个和最后一个项目不能是逻辑运算符。"
+
+msgid "The input data pattern is not str_pair, logic_operator, str_pair, logic_operator, str_pair, ..."
+msgstr "输入数据模式不是str_pair，logic_operator，str_pair，logic_operator，str_pair，...。"
+
+msgid "The nmmsn_ne_list is empty."
+msgstr "nmmsn_ne_list为空。"
+
+msgid "There are both \"and\" and \"or\" logic operators in the input data, only one of them is allowed."
+msgstr "输入数据中既有“and”逻辑运算符，也有“or”逻辑运算符，只允许其中一个。"
+
+msgid "The mapping type is not one-to-one."
+msgstr "映射类型不是一对一。"
+
+msgid "The type of the input data is not list or str."
+msgstr "输入数据的类型不是列表或字符串。"
+
+msgid "The type of the input data is not tuple or str."
+msgstr "输入数据的类型不是元组或字符串。"
+
+msgid "Species inclusion detected."
+msgstr "检测到物种包含。"
+
+msgid "Multiple species origins detected."
+msgstr "检测到多个物种基源。"
+
+msgid "Multiple medicinal parts detected."
+msgstr "检测到多个药用部位。"
+
+msgid "Multiple special descriptions detected."
+msgstr "检测到多个特殊描述。"
+
+msgid "Not all processing methods end with \"制\"."
+msgstr "不是所有的炮制方法都以“制”结尾。"
+
+msgid "Multiple processing methods with \"or\" logic detected."
+msgstr "检测到多个带有“or”逻辑的加工方法。"
+
+msgid "Invalid NMM type."
+msgstr "无效的NMM类型。"
+
+msgid "Invalid logical operator: {}"
+msgstr "无效的逻辑运算符：{}"
+
+msgid "The length of the list should be odd."
+msgstr "列表的长度应该是奇数。"
+
+msgid "The first or last string cannot be a logical operator."
+msgstr "第一个或最后一个字符串不能是逻辑运算符。"
+
+msgid "map_direction must be either \"forward\" or \"backward\""
+msgstr "map_direction必须是“forward”或“backward”"
+
+msgid "Non-unique value found in {}, please check the output DataFrame."
+msgstr "在{}中找到非唯一值，请检查输出的DataFrame。"
+
+msgid "All values in {} are unique."
+msgstr "{}中的所有值都是唯一的。"
+
+msgid "NaN value found in {}, please check the output DataFrame."
+msgstr "在{}中找到NaN值，请检查输出的DataFrame。"
+
+msgid "No NaN value found in {}."
+msgstr "在{}中没有找到NaN值。"
+
+msgid "The input data must contain only one type of logical operator."
+msgstr "输入数据必须只包含一种类型的逻辑运算符。"
+
+msgid "Failed to map {} to standard species origin, please check the output DataFrame."
+msgstr "无法将{}映射到标准物种基源，请检查输出的DataFrame。"
+
+msgid "Processing methods detected in non-processed NMM."
+msgstr "检测到非炮制NMM中的炮制方法。"
