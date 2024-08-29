@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "shennongname"
-version = "1.0.0"
-description = "神农Name (神农命名, ShennongName)"
+version = "1.1.0"
+description = "ShennongName (神农命名)"
 authors = ["YANG Zijie <yangzijie@westlake.edu.cn>"]
 readme = "README.md"
 
