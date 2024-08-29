@@ -102,12 +102,13 @@ docker run -d -p 5001:5001 shennongname
 ## Cite this work
 
 ```bibtex
-@misc{yang2023aidriven,
-      title={AI-driven platform for systematic nomenclature and intelligent knowledge acquisition of natural medicinal materials}, 
+@misc{yang2024shennongalphaaidrivensharingcollaboration,
+      title={ShennongAlpha: an AI-driven sharing and collaboration platform for intelligent curation, acquisition, and translation of natural medicinal material knowledge}, 
       author={Zijie Yang and Yongjing Yin and Chaojun Kong and Tiange Chi and Wufan Tao and Yue Zhang and Tian Xu},
-      year={2023},
+      year={2024},
       eprint={2401.00020},
       archivePrefix={arXiv},
-      primaryClass={cs.AI}
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2401.00020}, 
 }
 ```
