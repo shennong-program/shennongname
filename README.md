@@ -4,15 +4,10 @@
 
 ## Documentation
 
-The documentation for `shennongname` is available on the documentation website of the ShennongAlpha ([ShennongDoc](https://shennongalpha.westlake.edu.cn/doc/)):
+The documentation for `shennongname` is hosted via GitHub Pages:
 
-- [English](https://shennongalpha.westlake.edu.cn/doc/en/shennongname/)
-- [中文](https://shennongalpha.westlake.edu.cn/doc/zh/shennongname/)
-
-You can also contribute to the documentation on the [`ShennongDoc`](https://github.com/Shennong-Program/ShennongDoc) GitHub repository by submitting a pull request:
-
-- [English](https://github.com/Shennong-Program/ShennongDoc/tree/main/doc/en/shennongname/)
-- [中文](https://github.com/Shennong-Program/ShennongDoc/tree/main/doc/zh/shennongname/)
+- [English](https://shennong-program.github.io/shennongname/#/en/)
+- [中文](https://shennong-program.github.io/shennongname/#/zh/)
 
 ## Systematic Nomenclature for Natural Medicinal Materials Algorithm (SNNMMA)
 
@@ -114,4 +109,4 @@ docker run -d -p 5001:5001 shennongname
 
 ## Cite this work
 
-Yang, Z., Yin, Y., Kong, C. et al. ShennongAlpha: an AI-driven sharing and collaboration platform for intelligent curation, acquisition, and translation of natural medicinal material knowledge. Cell Discov 11, 32 (2025). https://doi.org/10.1038/s41421-025-00776-2
+Yang, Z., Yin, Y., Kong, C. et al. ShennongAlpha: an AI-driven sharing and collaboration platform for intelligent curation, acquisition, and translation of natural medicinal material knowledge. Cell Discov 11, 32 (2025). <https://doi.org/10.1038/s41421-025-00776-2>
