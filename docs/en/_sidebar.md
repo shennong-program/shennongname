@@ -1,3 +1,2 @@
-- [Home](/en/)
 - [SNNMM](/en/snnmm.md)
 - [SNNMMA](/en/snnmma.md)

@@ -1,3 +1,2 @@
-- [Home](/zh/)
-- [SNNMM (Chinese)](/zh/snnmm.md)
-- [SNNMMA (Chinese)](/zh/snnmma.md)
+- [天然药材系统命名法](/zh/snnmm.md)
+- [天然药材系统命名法算法](/zh/snnmma.md)

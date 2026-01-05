@@ -1,8 +1,6 @@
-# ShennongName Documentation (Chinese)
+# ShennongName 文档
 
 Start here:
 
-- [SNNMM (Chinese)](/zh/snnmm.md)
-- [SNNMMA (Chinese)](/zh/snnmma.md)
-
-本地预览：`npx docsify serve docs`
+- [天然药材系统命名法](/zh/snnmm.md)
+- [天然药材系统命名法算法](/zh/snnmma.md)

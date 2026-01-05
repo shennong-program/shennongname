@@ -1,3 +1,2 @@
-- [Home](/)
 - [English](/en/)
 - [Chinese](/zh/)
