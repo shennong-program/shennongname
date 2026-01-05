@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 241 183.1">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        font-family: PingFangSC-Medium-GBpc-EUC-H, 'PingFang SC';
+      }
+
+      .cls-3 {
+        fill: #f08654;
+      }
+
+      .cls-4 {
+        fill: #333;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #0eaad3;
+      }
+
+      .cls-7 {
+        fill: #50b779;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        stroke: #333;
+        stroke-width: 2px;
+      }
+
+      .cls-9, .cls-10 {
+        fill: none;
+      }
+
+      .cls-11 {
+        letter-spacing: .02em;
+      }
+
+      .cls-12, .cls-13, .cls-14, .cls-15 {
+        font-weight: 500;
+      }
+
+      .cls-12, .cls-13, .cls-15 {
+        font-size: 6px;
+      }
+
+      .cls-12, .cls-16 {
+        font-family: HelveticaNeue-Medium, 'Helvetica Neue';
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-17 {
+        fill: #0a8fa1;
+        stroke: #0a8fa1;
+      }
+
+      .cls-14 {
+        font-size: 10px;
+      }
+
+      .cls-15 {
+        fill: #fff;
+      }
+
+      .cls-10 {
+        stroke: #000;
+      }
+    </style>
+  </defs>
+  <g id="snnmm">
+    <g>
+      <g>
+        <line class="cls-9" x1="42.5" y1="133.54" x2="42.5" y2="116.6"/>
+        <polygon class="cls-4" points="42.5 140.6 46.57 130.65 42.5 133.01 38.44 130.65 42.5 140.6"/>
+      </g>
+      <g>
+        <line class="cls-9" x1="42.5" y1="67.54" x2="42.5" y2="50.6"/>
+        <polygon class="cls-4" points="42.5 74.6 46.57 64.65 42.5 67.01 38.44 64.65 42.5 74.6"/>
+      </g>
+      <path class="cls-10" d="M84.5,140.6H234.83c3.13,0,5.67,2.54,5.67,5.67v30.66c0,3.13-2.54,5.67-5.67,5.67H84.5v-42Z"/>
+      <path class="cls-10" d="M84.5,74.6H234.83c3.13,0,5.67,2.54,5.67,5.67v30.66c0,3.13-2.54,5.67-5.67,5.67H84.5v-42Z"/>
+      <path class="cls-17" d="M6.17,74.6H84.5v42H6.17c-3.13,0-5.67-2.54-5.67-5.67v-30.66c0-3.13,2.54-5.67,5.67-5.67Z"/>
+      <text class="cls-15" transform="translate(3.21 93.86)"><tspan class="cls-16"><tspan x="0" y="0">Agricultural NMMs (ANMMs)</tspan></tspan><tspan class="cls-2"><tspan x="21.29" y="7.2">农产天然药材</tspan></tspan></text>
+      <path class="cls-17" d="M6.17,140.6H84.5v42H6.17c-3.13,0-5.67-2.54-5.67-5.67v-30.66c0-3.13,2.54-5.67,5.67-5.67Z"/>
+      <text class="cls-15" transform="translate(4.32 159.86)"><tspan class="cls-16"><tspan x="0" y="0">P</tspan><tspan class="cls-8" x="4" y="0">r</tspan><tspan x="6.01" y="0">ocessed NMMs (PNMMs)</tspan></tspan><tspan class="cls-2"><tspan x="20.18" y="7.2">炮制天然药材</tspan></tspan></text>
+      <text class="cls-13" transform="translate(48.5 126.6)"><tspan class="cls-16"><tspan x="0" y="0">P</tspan><tspan class="cls-1" x="4" y="0">r</tspan><tspan x="6.01" y="0">ocessing</tspan></tspan><tspan class="cls-2"><tspan x="0" y="7.2">炮制</tspan></tspan></text>
+      <text class="cls-14" transform="translate(15.47 8.6)"><tspan class="cls-16" x="0" y="0">Natural Medicinal Materials (NMMs, </tspan><tspan class="cls-2" x="167.29" y="0">天然药材</tspan><tspan class="cls-16" x="207.29" y="0">)</tspan></text>
+      <path class="cls-10" d="M84.5,14.6H234.83c3.13,0,5.67,2.54,5.67,5.67v24.66c0,3.13-2.54,5.67-5.67,5.67H84.5V14.6Z"/>
+      <path class="cls-17" d="M6.17,14.6H84.5V50.6H6.17c-3.13,0-5.67-2.54-5.67-5.67V20.27c0-3.13,2.54-5.67,5.67-5.67Z"/>
+      <text class="cls-15" transform="translate(13.33 30.87)"><tspan class="cls-16"><tspan x="0" y="0">Raw NMMs (RNNMs)</tspan></tspan><tspan class="cls-2"><tspan x="11.17" y="7.2">原始天然药材</tspan></tspan></text>
+      <text class="cls-13" transform="translate(153.5 31.42)"><tspan class="cls-2"><tspan x="0" y="0">黄花蒿</tspan></tspan><tspan class="cls-16"><tspan x="-13.34" y="7.2">Artemisia annua</tspan></tspan></text>
+      <text class="cls-13" transform="translate(48.5 60.6)"><tspan class="cls-16"><tspan x="0" y="0">Local p</tspan><tspan class="cls-1" x="20.45" y="0">r</tspan><tspan x="22.46" y="0">oce</tspan><tspan class="cls-11" x="32.69" y="0">s</tspan><tspan x="35.92" y="0">sing</tspan></tspan><tspan class="cls-2"><tspan x="0" y="7.2">产地加工</tspan></tspan></text>
+      <text class="cls-12" transform="translate(89.5 83.29)"><tspan x="0" y="0">NMM ID: </tspan><tspan x="0" y="7.2">NMMSN: </tspan><tspan x="0" y="14.4">NMMSN-zh: </tspan><tspan x="0" y="21.6">NMMGN: </tspan><tspan x="0" y="28.8">NMMGN-zh:</tspan></text>
+      <text class="cls-13" transform="translate(125.5 83.08)"><tspan class="cls-16"><tspan x="0" y="0">NMM-0001</tspan></tspan><tspan class="cls-16"><tspan class="cls-3" x="0" y="7.2">Artemisia annual </tspan><tspan class="cls-7" x="47.8" y="7.2">Part-aerial</tspan></tspan><tspan class="cls-2"><tspan class="cls-3" x="0" y="14.4">黄花蒿</tspan><tspan class="cls-7" x="18" y="14.4">地上部</tspan></tspan><tspan class="cls-16"><tspan x="0" y="21.6">Qing-hao</tspan></tspan><tspan class="cls-2"><tspan x="0" y="28.8">青蒿</tspan></tspan></text>
+      <text class="cls-12" transform="translate(89.5 149.29)"><tspan x="0" y="0">NMM ID: </tspan><tspan x="0" y="7.2">NMMSN: </tspan><tspan x="0" y="14.4">NMMSN-zh: </tspan><tspan x="0" y="21.6">NMMGN: </tspan><tspan x="0" y="28.8">NMMGN-zh:</tspan></text>
+      <text class="cls-13" transform="translate(125.5 149.08)"><tspan class="cls-16"><tspan x="0" y="0">NMM-0002</tspan></tspan><tspan class="cls-16"><tspan class="cls-3" x="0" y="7.2">Artemisia annual </tspan><tspan class="cls-7" x="47.8" y="7.2">Part-aerial </tspan><tspan class="cls-6" x="78.26" y="7.2">Segmented</tspan></tspan><tspan class="cls-2"><tspan class="cls-5" x="0" y="14.4">段制</tspan><tspan class="cls-3" x="12" y="14.4">黄花蒿</tspan><tspan class="cls-7" x="30" y="14.4">地上部</tspan></tspan><tspan class="cls-16"><tspan x="0" y="21.6">Qing-hao-duan</tspan></tspan><tspan class="cls-2"><tspan x="0" y="28.8">青蒿段</tspan></tspan></text>
+    </g>
+  </g>
+</svg>

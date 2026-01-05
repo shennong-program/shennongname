@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 276.04 158.86">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-family: PingFangSC-Medium-GBpc-EUC-H, 'PingFang SC';
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6 {
+        font-weight: 500;
+      }
+
+      .cls-7 {
+        fill: #f08654;
+      }
+
+      .cls-8 {
+        fill: #6586c3;
+      }
+
+      .cls-9 {
+        fill: #0eaad3;
+      }
+
+      .cls-10 {
+        fill: #50b779;
+      }
+
+      .cls-11, .cls-12 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-13, .cls-14, .cls-15 {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-13, .cls-15, .cls-16, .cls-17, .cls-18 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-19 {
+        font-size: 6px;
+      }
+
+      .cls-3, .cls-12, .cls-6, .cls-20 {
+        font-family: HelveticaNeue-Medium, 'Helvetica Neue';
+      }
+
+      .cls-15 {
+        stroke-dasharray: 0 0 2.03 2.03;
+      }
+
+      .cls-21 {
+        font-family: HelveticaNeue-Bold, 'Helvetica Neue';
+        font-weight: 700;
+      }
+
+      .cls-16 {
+        stroke-dasharray: 0 0 1 1;
+      }
+
+      .cls-16, .cls-17, .cls-18 {
+        stroke: #333;
+      }
+
+      .cls-17 {
+        stroke-dasharray: 0 0 1 1;
+      }
+
+      .cls-5, .cls-19 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="snnmm">
+    <g>
+      <text class="cls-5" transform="translate(13 111.14)"><tspan class="cls-2"><tspan x="0" y="0">物种基原</tspan></tspan><tspan class="cls-20"><tspan x="-9.23" y="7.2">Species origins</tspan></tspan></text>
+      <rect class="cls-10" x="72.04" y="101.14" width="60" height="24" rx="5.67" ry="5.67"/>
+      <text class="cls-19" transform="translate(100.27 108.97)"><tspan class="cls-21"><tspan x="0" y="0">II</tspan></tspan><tspan class="cls-6"><tspan x="-19.57" y="6">Medicinal parts</tspan></tspan><tspan class="cls-1"><tspan x="-10.23" y="12">药用部位</tspan></tspan></text>
+      <rect class="cls-8" x="144.04" y="101.14" width="60" height="24" rx="5.67" ry="5.67"/>
+      <text class="cls-19" transform="translate(171.39 108.97)"><tspan class="cls-21"><tspan x="0" y="0">III</tspan></tspan><tspan class="cls-6"><tspan x="-25.52" y="6">Special descriptions</tspan></tspan><tspan class="cls-1"><tspan x="-9.34" y="12">特殊形容</tspan></tspan></text>
+      <text class="cls-5" transform="translate(235 111.14)"><tspan class="cls-2"><tspan x="0" y="0">炮制方法</tspan></tspan><tspan class="cls-20"><tspan x="-16.46" y="7.2">P</tspan><tspan class="cls-11" x="-12.46" y="7.2">r</tspan><tspan x="-10.45" y="7.2">ocessing methods</tspan></tspan></text>
+      <g>
+        <line class="cls-18" x1="174.04" y1="101.14" x2="174.04" y2="100.64"/>
+        <line class="cls-17" x1="174.04" y1="99.64" x2="174.04" y2="96.14"/>
+        <line class="cls-18" x1="174.04" y1="95.64" x2="174.04" y2="95.14"/>
+      </g>
+      <line class="cls-18" x1="66.04" y1="29.14" x2="66.04" y2="23.14"/>
+      <text class="cls-3" transform="translate(26.65 91.06)"><tspan x="0" y="0">La</tspan></text>
+      <text class="cls-3" transform="translate(98.43 91.14)"><tspan x="0" y="0">En</tspan></text>
+      <text class="cls-3" transform="translate(170.43 91.14)"><tspan x="0" y="0">En</tspan></text>
+      <text class="cls-3" transform="translate(242.43 91.14)"><tspan x="0" y="0">En</tspan></text>
+      <text class="cls-3" transform="translate(54.43 43.14)"><tspan x="0" y="0">NMMSN</tspan></text>
+      <text class="cls-4" transform="translate(29.8 5.14)"><tspan class="cls-20"><tspan x="0" y="0">Natural Medicinal Material</tspan></tspan><tspan class="cls-20"><tspan x="-2.21" y="7.2">Systematic Name (NMMSN)</tspan></tspan><tspan class="cls-2"><tspan x="15.24" y="14.4">天然药材系统名</tspan></tspan></text>
+      <rect class="cls-7" x=".04" y="101.14" width="60" height="24" rx="5.67" ry="5.67"/>
+      <text class="cls-19" transform="translate(28.2 108.97)"><tspan class="cls-21"><tspan x="0" y="0">I</tspan></tspan><tspan class="cls-6"><tspan x="-20.35" y="6">Species origins</tspan></tspan><tspan class="cls-1"><tspan x="-11.12" y="12">物种基源</tspan></tspan></text>
+      <rect class="cls-9" x="216.04" y="101.14" width="60" height="24" rx="5.67" ry="5.67"/>
+      <text class="cls-19" transform="translate(243.27 108.96)"><tspan class="cls-21"><tspan x="0" y="0">IV</tspan></tspan><tspan class="cls-6"><tspan x="-25.68" y="6">P</tspan><tspan class="cls-11" x="-21.68" y="6">r</tspan><tspan x="-19.68" y="6">ocessing methods</tspan></tspan><tspan class="cls-1"><tspan x="-9.22" y="12">炮制方法</tspan></tspan></text>
+      <polyline class="cls-18" points="102.04 83.14 102.04 77.14 30.04 77.14 30.04 83.14"/>
+      <polyline class="cls-18" points="174.04 83.14 174.04 53.14 66.04 53.14 66.04 59.14"/>
+      <polyline class="cls-18" points="246.04 83.14 246.04 29.14 66.04 29.14 66.04 35.14"/>
+      <g>
+        <line class="cls-18" x1="30.04" y1="101.14" x2="30.04" y2="100.64"/>
+        <line class="cls-16" x1="30.04" y1="99.64" x2="30.04" y2="96.14"/>
+        <line class="cls-18" x1="30.04" y1="95.64" x2="30.04" y2="95.14"/>
+      </g>
+      <g>
+        <line class="cls-18" x1="102.04" y1="101.14" x2="102.04" y2="100.64"/>
+        <line class="cls-17" x1="102.04" y1="99.64" x2="102.04" y2="96.14"/>
+        <line class="cls-18" x1="102.04" y1="95.64" x2="102.04" y2="95.14"/>
+      </g>
+      <g>
+        <line class="cls-18" x1="246.04" y1="101.14" x2="246.04" y2="100.64"/>
+        <line class="cls-17" x1="246.04" y1="99.64" x2="246.04" y2="96.14"/>
+        <line class="cls-18" x1="246.04" y1="95.64" x2="246.04" y2="95.14"/>
+      </g>
+      <line class="cls-18" x1="66.04" y1="77.14" x2="66.04" y2="71.14"/>
+      <line class="cls-18" x1="66.04" y1="53.14" x2="66.04" y2="47.14"/>
+      <text class="cls-3" transform="translate(54.43 67.14)"><tspan x="0" y="0">NMMSN</tspan></text>
+      <line class="cls-14" x1=".04" y1="131.14" x2="131.08" y2="131.14"/>
+      <g>
+        <line class="cls-13" x1="131.08" y1="131.14" x2="132.08" y2="131.14"/>
+        <line class="cls-15" x1="134.11" y1="131.14" x2="202.03" y2="131.14"/>
+        <line class="cls-13" x1="203.04" y1="131.14" x2="204.04" y2="131.14"/>
+      </g>
+      <g>
+        <line class="cls-13" x1="131.08" y1="149.14" x2="132.08" y2="149.14"/>
+        <line class="cls-15" x1="134.11" y1="149.14" x2="202.03" y2="149.14"/>
+        <line class="cls-13" x1="203.04" y1="149.14" x2="204.04" y2="149.14"/>
+      </g>
+      <line class="cls-14" x1=".04" y1="149.14" x2="131.08" y2="149.14"/>
+      <line class="cls-14" x1="204.04" y1="149.14" x2="276.04" y2="149.14"/>
+      <text class="cls-4" transform="translate(.04 157.14)"><tspan class="cls-20" x="0" y="0">P</tspan><tspan class="cls-12" x="4" y="0">r</tspan><tspan class="cls-20" x="6.01" y="0">ocessed NMMs (PNMMs, </tspan><tspan class="cls-2" x="78.04" y="0">炮制天然药材</tspan><tspan class="cls-20" x="114.04" y="0">)</tspan></text>
+      <text class="cls-4" transform="translate(.04 139.14)"><tspan class="cls-20" x="0" y="0">Agricultural NMMs (ANMMs, </tspan><tspan class="cls-2" x="80.25" y="0">农产天然药材</tspan><tspan class="cls-20" x="116.25" y="0">)</tspan></text>
+    </g>
+  </g>
+</svg>

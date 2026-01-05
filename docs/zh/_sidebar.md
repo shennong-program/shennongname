@@ -1,0 +1,3 @@
+- [Home](/zh/)
+- [SNNMM (Chinese)](/zh/snnmm.md)
+- [SNNMMA (Chinese)](/zh/snnmma.md)
