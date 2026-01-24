@@ -63,39 +63,32 @@ The output is a Python dictionary:
 
 The `shennongname` package also provides a Flask server for constructing NMMSNs.
 
-### 1. Create a conda environment and activate it
-
-```shell
-conda create -n shennongname python=3.11
-conda activate shennongname
-```
-
-### 2. Configure the `.env` file
+### 1. Configure the `.env` file
 
 ```shell
 cp .env.example .env
 ```
 
-### 3. Install `shennongname` package
+### 2. Install dependencies with `uv`
 
 ```shell
-poetry install
+uv sync
 ```
 
-We use `poetry` to manage the dependencies. If you don't have `poetry` installed, you can install it by running the following command:
+We use `uv` to manage the dependencies. If you want development dependencies (e.g., tests), run:
 
 ```shell
-pip install poetry
+uv sync --dev
 ```
 
-### 4. Run the Flask server
+### 3. Run the Flask server
 
 ```shell
 # Production
-gunicorn -b 0.0.0.0:5001 shennongname.flask.run:app
+uv run gunicorn -b 0.0.0.0:5001 shennongname.flask.run:app
 
 # Development
-python shennongname/flask/run.py
+uv run python shennongname/flask/run.py
 ```
 
 ## Start ShennongName Flask Server with Docker
